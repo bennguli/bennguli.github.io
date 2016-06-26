@@ -1,7 +1,3 @@
----
-layout:post
-title : global flight tracking solution
----
 
 ##About FlightAware
 
