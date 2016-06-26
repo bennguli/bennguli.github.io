@@ -2,7 +2,7 @@
 layout: post
 title : androidAppflighttracker
 ---
-##About FlightAware
+## About FlightAware
 
 _FlightAware is the world's largest flight tracking data company and provides over 10,000 aircraft operators and service companies as well as over 12,000,000 passengers with global flight tracking solutions. FlightAware leverages data from air traffic control systems in over 55 countries, from FlightAware's network of ADS-B ground stations in over 125 countries, and using global datalink (satellite/VHF) via every major provider, including ARINC, SITA, Satcom Direct, Garmin, Honeywell GDC, and UVdatalink._
 _FlightAware's seamless integration of thousands of real-time, worldwide data sources combined with FlightAware's powerful, intuitive, responsive, and reliable web-based interfaces and data feeds yield the most capable and useful flight tracking application and service._
