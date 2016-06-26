@@ -1,3 +1,7 @@
+---
+layout:  post
+title :  chromeDeveloperTools
+---
 
 ## Chrome DevTools Overview
 
